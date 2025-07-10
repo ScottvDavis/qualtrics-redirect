@@ -1,4 +1,5 @@
 {
-  "facebook": "https://ncbrainhealth.org",
+  "registry": "https://ncbrainhealth.org",
+  "studies": "https://ncbrainhealth.org/registry-studies",
   "duke": "https://duke.edu"
 }
